@@ -12,3 +12,6 @@
 ## Desafios implementados
 - [Conversor de número binário para decimal](https://github.com/jfelype01/App-Ideias/blob/main/binary2decimal.py)
 - Os próximos virão com o tempo
+
+## Observações
+<p>Para acessar o repositório original, clique <a href="google.com">aqui</a></p>
