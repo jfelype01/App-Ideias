@@ -14,4 +14,6 @@
 - Os próximos virão com o tempo
 
 ## Observações
-<p>Para acessar o repositório original, clique <a href="google.com">aqui</a></p>
+<p>Para acessar o repositório original, clique <a href="https://github.com/florinpop17/app-ideas">aqui</a></p>
+<p>Caso queira entrar em contato para dar uma sugestão para o repositório, me chama no linkedin</p>
+<p>Caso queira dar alguma sugestão para o repositório, basta entrar em contato como meu <a href="https://linkedin.com/in/joão-felype">linkedin</a></p>
