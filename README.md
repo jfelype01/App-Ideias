@@ -10,5 +10,5 @@
 <p>1 desafio de 80 (1,25%)</p>
 
 ## Desafios implementados
-- Conversor de número binário para decimal
+- [Conversor de número binário para decimal](https://github.com/jfelype01/App-Ideias/blob/main/binary2decimal.py)
 - Os próximos virão com o tempo
